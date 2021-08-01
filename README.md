@@ -14,7 +14,7 @@ I made a template website using only html & css
 
 ## Starter Files
 
-For the starter files, we created a `branch` in this repository named `master`. You need to change the branch in the top corner of the repo then you will get the starter files and now you can clone the repo or `download` it.
+For the starter files, we created a `branch` in this repository named `main`. You need to change the branch in the top corner of the repo then you will get the starter files and now you can clone the repo or `download` it.
 
 ## Getting Started
 
