@@ -92,7 +92,7 @@ header .container ul li a.active ,header .container ul li a:hover{
 /* End Header */
 /* Start Section */
 section{
-    background-image: url(../img/hero-bg.png);
+    background-image: url(hero-bg.png);
     background-size: cover;
     position: relative;
     height: 100vh;
@@ -284,7 +284,7 @@ padding-left: 10px;
     align-items: center;
 }
 .services .boxs .box{
-    background-image: url(../img/img-1.png);
+    background-image: url(img-1.png);
     background-size: cover;
     position: relative;
     overflow: hidden;
